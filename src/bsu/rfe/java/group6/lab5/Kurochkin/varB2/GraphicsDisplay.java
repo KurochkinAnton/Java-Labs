@@ -1,9 +1,8 @@
-package bsu.rfe.java.group6.lab5.Kurochkin.varA2;
+package bsu.rfe.java.group6.lab5.Kurochkin.varB2;
 
 
 import java.awt.*;
 import java.awt.event.*;
-import java.awt.font.FontRenderContext;
 import java.awt.geom.*;
 import javax.swing.*;
 

@@ -1,4 +1,4 @@
-package bsu.rfe.java.group6.lab5.Kurochkin.varA2;
+package bsu.rfe.java.group6.lab5.Kurochkin.varB2;
 
 
 import java.awt.*;
